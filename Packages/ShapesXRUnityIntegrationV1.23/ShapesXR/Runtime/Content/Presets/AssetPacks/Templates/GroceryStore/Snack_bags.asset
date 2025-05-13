@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Snack_bags
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 5550561470754433964, guid: 1d89b8729d70d7a4ba393053901b0fdb, type: 3}
+  _displayName: Snack Bags
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: ee0c6a3d29334945b1b31ea0c059a130
+  _guid:
+    m_GuidLow: 4992577914133941486
+    m_GuidHigh: 3504180668925916081
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 

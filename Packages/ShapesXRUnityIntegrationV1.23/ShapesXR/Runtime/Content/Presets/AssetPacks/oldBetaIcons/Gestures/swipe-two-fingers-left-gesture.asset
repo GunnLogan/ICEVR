@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: swipe-two-fingers-left-gesture
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Swipe Two Fingers Left Gesture
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 624043c25cea9b40b65f8aeb9ddf8c42
+  _guid:
+    m_GuidLow: 4655572323934617698
+    m_GuidHigh: 4795453572597309366
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: 159797f30da9fc64d807db406c2b3314, type: 3}

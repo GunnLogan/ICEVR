@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Oculus_quest2_left
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -8553304327707643570, guid: 2931d2e7fdfe4364cbfe36c1dab97e3f, type: 3}
+  _displayName: Quest 2 Left
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 0b51289e0261a34eb38a178917ed563d
+  _guid:
+    m_GuidLow: 5666479420033487115
+    m_GuidHigh: 4419980769650772659
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    https://creativecommons.org/public-domain/
+
+
+    BlackCube
+
+    Edited
+    by ShapesXR
+
+    https://sketchfab.com/3d-models/quest-2-controller-low-mid-and-high-poly-9f02b77cc27148c986315674c7ed106d
+
+'

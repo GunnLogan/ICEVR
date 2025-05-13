@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25cd5d20b6e6b9245a5a7400a33eb99d, type: 3}
+  m_Name: Mary_woman_home_presenting03
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 490997042582652725, guid: 03cdcac969b69254699880878ebbba8a, type: 3}
+  _displayName: Presenting 3
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: aaecb1202251734aa1fcf3a55b57d6e6
+  _guid:
+    m_GuidLow: 5364720788147661994
+    m_GuidHigh: 16633578324877376673
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _pose: {fileID: 1901781744851005351, guid: 9dc130b6a66ab3d4a8c0a2e3c2d2b45f, type: 3}

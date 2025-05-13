@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: mac-os-window
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Mac Os Window
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: dfebd70e41a2c74b8eb9d9ec9b711a4d
+  _guid:
+    m_GuidLow: 5460511473515621343
+    m_GuidHigh: 5555878004822489486
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: 30988b69c85483441b0b236a40cc7661, type: 3}

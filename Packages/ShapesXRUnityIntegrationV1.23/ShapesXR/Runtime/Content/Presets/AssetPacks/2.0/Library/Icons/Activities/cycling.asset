@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: cycling
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Cycling
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 1a2f7421528ac343a24a825927c76795
+  _guid:
+    m_GuidLow: 4882898506352963354
+    m_GuidHigh: 10765792406071823010
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: 8282ef55fe4e70f48a3bd0990e759800, type: 3}

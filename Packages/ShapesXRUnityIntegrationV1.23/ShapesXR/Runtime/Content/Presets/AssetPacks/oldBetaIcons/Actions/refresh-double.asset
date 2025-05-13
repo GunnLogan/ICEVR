@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: refresh-double
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Refresh Double
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: d0d570e298bb7e4da36d388722511974
+  _guid:
+    m_GuidLow: 5584106853294462416
+    m_GuidHigh: 8365806991556767139
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: b9af29f19f2e7b94d96b7ca4617862ba, type: 3}

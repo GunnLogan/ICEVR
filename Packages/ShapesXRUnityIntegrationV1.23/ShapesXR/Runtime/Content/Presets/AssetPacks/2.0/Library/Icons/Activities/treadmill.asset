@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: treadmill
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Treadmill
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: b2c5c7a7006fbf4eaa3e872a6cde21cb
+  _guid:
+    m_GuidLow: 5674376104115684786
+    m_GuidHigh: 14637224820082163370
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: eda46e7d5d96f02458c0bb01b045b698, type: 3}

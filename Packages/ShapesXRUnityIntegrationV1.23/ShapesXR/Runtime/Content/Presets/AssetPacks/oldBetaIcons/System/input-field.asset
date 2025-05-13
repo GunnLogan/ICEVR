@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: input-field
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Input Field
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 095a54e14aeb4e49ae09ca51d841c5e0
+  _guid:
+    m_GuidLow: 5282418119792679433
+    m_GuidHigh: 16196424032248793518
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: b24c576bc4d334f42ab982b755ab280e, type: 3}

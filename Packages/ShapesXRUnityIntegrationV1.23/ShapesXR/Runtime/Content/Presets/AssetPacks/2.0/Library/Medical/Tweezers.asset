@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Tweezers
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 2955315540127071790, guid: 34041445aae46c74a8abe4cc01fd2a95, type: 3}
+  _displayName: Tweezers
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: a64170573297974db847832f8febb147
+  _guid:
+    m_GuidLow: 5591103704874893734
+    m_GuidHigh: 5166169247780652984
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    https://creativecommons.org/licenses/by/4.0/deed.en
+
+
+    ferofluid
+
+    Edited
+    by ShapesXR
+
+    https://sketchfab.com/3d-models/surgical-instrument-2971a44d334b45ff926792e92a6bcee7
+
+'

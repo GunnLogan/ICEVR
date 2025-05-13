@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Scissors
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 6048594248952479371, guid: 2e0054689340b4a43879a6ebe3eb01ee, type: 3}
+  _displayName: Scissors
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: a3334e7fbc48624e9988657f909ed300
+  _guid:
+    m_GuidLow: 5648156857102906275
+    m_GuidHigh: 59565563535788185
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License Free Art License
+
+    http://artlibre.org/licence/lal/en/
+
+
+    alaX
+
+    Edited
+    by ShapesXR
+
+    https://www.sweethome3d.com/searchModels.jsp?model=Scissors&x=0&y=0
+
+'

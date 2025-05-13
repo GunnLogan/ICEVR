@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: HalfRoom
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -1597980595897524005, guid: 54362d552af52df458d134274d950957, type: 3}
+  _displayName: Half Room
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: fef5fe50f280524d9a0413c91fc68d1b
+  _guid:
+    m_GuidLow: 5571657467240052222
+    m_GuidHigh: 1985460850560009370
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+
+    ShapesXR
+
+
+'

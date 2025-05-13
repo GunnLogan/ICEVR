@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: color-picker-empty
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Color Picker Empty
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 630cf7492abbd8488e1fd5542a9f4d3d
+  _guid:
+    m_GuidLow: 5249151156004260963
+    m_GuidHigh: 4417361813681020814
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: d1c6e0d621e242f4b819e5ee9f613cc0, type: 3}

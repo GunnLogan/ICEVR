@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: StorageBox
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -5348353802211133884, guid: e8912f22ad0c31a4a9a80bdb7e9cc2a3, type: 3}
+  _displayName: Storage Box
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 74ea33eb1779ae4e8d46401639c55ec7
+  _guid:
+    m_GuidLow: 5669602124543289972
+    m_GuidHigh: 14366136710335579789
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC0 1.0
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+
+    ruwo
+
+    Edited
+    by ShapesXR
+
+    https://www.blendswap.com/blend/19619
+
+'

@@ -1,0 +1,14 @@
+{
+  "name": "com.shapesxr.unity.integration",
+  "version": "1.0.0",
+  "displayName": "ShapesXR Unity Integration",
+  "description": "Plugin for integration of ShapesXR with Unity",
+  "unity": "2022.3",
+
+  "dependencies": {
+      "com.unity.cloud.gltfast" : "6.7.0",
+      "com.neuecc.messagepack" : "2.4.35",
+      "com.unity.vectorgraphics" : "2.0.0-preview.24"
+  }
+}
+

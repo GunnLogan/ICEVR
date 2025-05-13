@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: mac-control-key
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Mac Control Key
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: cf759ccc3d5b91449bf7a7d85b42a8ee
+  _guid:
+    m_GuidLow: 4940830587186083279
+    m_GuidHigh: 17197068139358582683
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: 804725459ce7df746b612916379baa5b, type: 3}

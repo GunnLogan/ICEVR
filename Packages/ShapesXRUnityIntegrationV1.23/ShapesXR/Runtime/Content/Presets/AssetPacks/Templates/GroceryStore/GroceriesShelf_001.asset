@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: GroceriesShelf_001
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 1215714406980469459, guid: 20afc37d4ba067249acb2d2328095264, type: 3}
+  _displayName: Groceries shelf 1
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 6876070a573fea43b86c051d0feca2d4
+  _guid:
+    m_GuidLow: 4893793588154431080
+    m_GuidHigh: 15322068431923408056
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    https://creativecommons.org/public-domain/
+
+
+    ShapesXR
+
+
+'

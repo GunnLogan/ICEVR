@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 211053609, guid: f178b950b25ec60408bcc16eedb779de, type: 3}
+  m_Name: URPMaterialMap
+  m_EditorClassIdentifier: 
+  _pbrOpaque:
+    _material: {fileID: 2100000, guid: fca644dacd93ff940930fdbe812ef90b, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _BaseColor
+    _mainTextureParameterName: _BaseMap
+    _metalnessParameterName: _Metallic
+    _smoothnessParameterName: _Glossiness
+  _pbrTransparent:
+    _material: {fileID: 2100000, guid: 13d291e9ab15d724f9e503ae60924f73, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _BaseColor
+    _mainTextureParameterName: _BaseMap
+    _metalnessParameterName: _Metallic
+    _smoothnessParameterName: _Glossiness
+  _pbrCutout:
+    _material: {fileID: 2100000, guid: f1b8300caea63f6419c76f81a9c14feb, type: 2}
+    _cutoffParameterName: _Cutoff
+    _colorParameterName: _BaseColor
+    _mainTextureParameterName: _BaseMap
+    _metalnessParameterName: _Metallic
+    _smoothnessParameterName: _Glossiness
+  _pbrAdditive:
+    _material: {fileID: 2100000, guid: a1dbaece6e32f79499523454c83844ef, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: _Metallic
+    _smoothnessParameterName: _Glossiness
+  _pbrMultiply:
+    _material: {fileID: 2100000, guid: 4f673ba7e8924bc49a62ef6d15ef7b4b, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: _Metallic
+    _smoothnessParameterName: _Glossiness
+  _unlitOpaque:
+    _material: {fileID: 2100000, guid: 838c55095df9db24c922f74da5bcbd93, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: 
+    _smoothnessParameterName: 
+  _unlitTransparent:
+    _material: {fileID: 2100000, guid: c8655764609c85446acee7640dfbde7e, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: 
+    _smoothnessParameterName: 
+  _unlitCutout:
+    _material: {fileID: 2100000, guid: 94d480b790193704baa382c44bbf39d0, type: 2}
+    _cutoffParameterName: _Cutoff
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: 
+    _smoothnessParameterName: 
+  _unlitAdditive:
+    _material: {fileID: 2100000, guid: a1dbaece6e32f79499523454c83844ef, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: 
+    _smoothnessParameterName: 
+  _unlitMultiply:
+    _material: {fileID: 2100000, guid: 4f673ba7e8924bc49a62ef6d15ef7b4b, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: 
+    _smoothnessParameterName: 
+  _default:
+    _material: {fileID: 2100000, guid: fca644dacd93ff940930fdbe812ef90b, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: _Metallic
+    _smoothnessParameterName: _Glossiness
+  _text:
+    _material: {fileID: 2100000, guid: fca644dacd93ff940930fdbe812ef90b, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: _Color
+    _mainTextureParameterName: _MainTex
+    _metalnessParameterName: _Metalness
+    _smoothnessParameterName: _Smoothness
+  _passthrough:
+    _material: {fileID: 2100000, guid: fca644dacd93ff940930fdbe812ef90b, type: 2}
+    _cutoffParameterName: 
+    _colorParameterName: 
+    _mainTextureParameterName: 
+    _metalnessParameterName: 
+    _smoothnessParameterName: 

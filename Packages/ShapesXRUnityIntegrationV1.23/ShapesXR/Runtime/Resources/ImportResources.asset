@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e6c3c550ae5e2a4689563d34d91b888, type: 3}
+  m_Name: ImportResources
+  m_EditorClassIdentifier: 
+  _shapesXrLogo: {fileID: 2800000, guid: ff5833fb9152c2f438bafb52cb7f846a, type: 3}
+  _spaceDescriptorPrefab: {fileID: 2697812492704629896, guid: d7136a1d66db7b240b8a534a40f96280, type: 3}
+  _presetLibrary: {fileID: 11400000, guid: 1249cff1d48cf8b46837f86f9f06fea1, type: 2}
+  _emptyObjectPrefab: {fileID: 8189475099187626775, guid: a869d8f7e002c33418883f2d5b102463, type: 3}
+  _imageAssetContainer: {fileID: 4349710370460458735, guid: 65903757d6345c649b89f9e7b12a55b0, type: 3}
+  _iconAssetContainer: {fileID: 2679793439713360880, guid: 991e6f46b87cb0347a19f44505d0ce70, type: 3}

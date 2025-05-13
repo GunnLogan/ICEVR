@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: MeetingTable
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 5495961779208642731, guid: e164de9130bae0a4e9b1b16ae664cf71, type: 3}
+  _displayName: Meeting Table
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 7027cc2a404984469ed8832b4faa362f
+  _guid:
+    m_GuidLow: 5081266819525519216
+    m_GuidHigh: 3402093825534187678
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License ShapesXR
+
+
+
+    Edited by ShapesXR
+
+'

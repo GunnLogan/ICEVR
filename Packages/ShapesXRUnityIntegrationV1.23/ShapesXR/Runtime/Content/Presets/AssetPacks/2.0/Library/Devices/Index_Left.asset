@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Index_Left
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -673165553302642206, guid: b28add8a25314d040baa258eeb1fc318, type: 3}
+  _displayName: Index Left
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: e0229b16a4f15f47a71f4a211b8b331a
+  _guid:
+    m_GuidLow: 5143094986536592096
+    m_GuidHigh: 1888005617437253543
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    https://creativecommons.org/licenses/by/4.0/deed.en
+
+
+    F53
+
+    Edited
+    by ShapesXR
+
+    https://sketchfab.com/3d-models/valve-index-controller-right-2062796941ab46f195651b5625345a8d
+
+'

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: BottleOil
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 5160226113264990193, guid: 5a16860b528e2ec4aac4d687e45239df, type: 3}
+  _displayName: Bottle Oil
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: a5f2e13bfe5f6140aa99d008b7923656
+  _guid:
+    m_GuidLow: 4639094636699316901
+    m_GuidHigh: 6212314050828736938
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC0 1.0
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+
+    Kenney
+
+    Edited
+    by ShapesXR
+
+    https://www.kenney.nl/assets/food-kit
+
+'

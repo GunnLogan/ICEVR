@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Headset
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 7846851123878500328, guid: 9f6b8c93ad0bcbe43b19e73aba721dc8, type: 3}
+  _displayName: 
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 0
+  _serializedGuid: b4dfbb5b672b0344871708e5255bf3f4
+  _guid:
+    m_GuidLow: 4900808542429896628
+    m_GuidHigh: 17650551582909536135
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+
+
+    ShapesXR
+
+    Edited by ShapesXR
+
+'

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Forklift
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 8490142761385829502, guid: b39467087bfab2f4d804a585390640cf, type: 3}
+  _displayName: Forklift
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 1a6d83a6243eab45ba264f9a56869990
+  _guid:
+    m_GuidLow: 5020174536767925530
+    m_GuidHigh: 10419506919412541114
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    https://creativecommons.org/public-domain/
+
+
+    Forklift
+    Machine Familiarization by iip
+
+    Edited by ShapesXR
+
+    https://sketchfab.com/3d-models/forklift-machine-familiarization-c877e570455a43769758d151610534ff
+
+'

@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.36f1
+CRC: 2709619310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 310fb72cb9334c5a88f50a62e45d0ce4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 79facdce56691cc1d5fa4bd66a9906f5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 927c950c57837b95a59bd69fff79b3c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31184df8205608f4ab23c781ded27460, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0521ebb7a84fbd141b5cf22e55e2aef4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.nuro.vrweb.developertk/Runtime/Scenes/ErrorScene.unity
+Dependencies: []

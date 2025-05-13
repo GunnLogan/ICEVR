@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: TallVase
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -8965889893488131975, guid: eca4e1ca8d7015d42b1767f766bdba63, type: 3}
+  _displayName: Tall Vase
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: bcfc14c6c7b0d64da3fa9d2351e2f23c
+  _guid:
+    m_GuidLow: 5608864758004776124
+    m_GuidHigh: 4391821424757439139
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    https://creativecommons.org/licenses/by/4.0/deed.en
+
+
+    aplus
+
+    Edited
+    by ShapesXR
+
+    https://sketchfab.com/3d-models/mokotow-nad-skarpa-52-a7021f8fbc3148d8871082b3b75c226f
+
+'

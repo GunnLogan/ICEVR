@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: 12_SphereHalfFill
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 9178637326673966931, guid: ab17ffd47f685144ba8d1deb7c173ed8, type: 3}
+  _displayName: Hollow Half Sphere
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: eeec59cc22ec79498eba1ced2f0f249d
+  _guid:
+    m_GuidLow: 5294522471152217326
+    m_GuidHigh: 11323192061632232078
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 1
+  _creationSnappingUpAxis: 1
+  _license: 

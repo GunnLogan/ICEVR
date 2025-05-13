@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: WallShelfShapes
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -3523105435434068254, guid: ff3cd58592fbd22468c9ec21169bf530, type: 3}
+  _displayName: Wall Shelf
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 234892722b9fb14bb60c8ca923a03ee8
+  _guid:
+    m_GuidLow: 5454315632676980771
+    m_GuidHigh: 16734989340384169142
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+
+    ShapesXR
+
+
+'

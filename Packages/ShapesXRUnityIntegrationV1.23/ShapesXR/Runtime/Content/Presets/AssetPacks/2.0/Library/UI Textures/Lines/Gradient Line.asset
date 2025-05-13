@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4418b5595dbe5ea4a9f7168da6e58ca5, type: 3}
+  m_Name: Gradient Line
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Gradient Line
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 47694f2d9a577e48a6b6fd1bb43915d9
+  _guid:
+    m_GuidLow: 5223708937493113159
+    m_GuidHigh: 15642472326467794598
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _image: {fileID: 2800000, guid: 55609b5c9bb214e4098984187b3b0bbb, type: 3}

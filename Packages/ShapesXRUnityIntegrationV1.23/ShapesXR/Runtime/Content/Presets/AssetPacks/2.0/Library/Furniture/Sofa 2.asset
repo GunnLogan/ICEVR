@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Sofa 2
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -1891796573262632731, guid: 4fcddb06549473e42a386f00f36f54d5, type: 3}
+  _displayName: Sofa 2
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 3a90312309c6a84b82b47d9c210a0d96
+  _guid:
+    m_GuidLow: 5451825091479441466
+    m_GuidHigh: 10812309419862111362
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC0 1.0
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+
+
+    Edited
+    by ShapesXR
+
+    http://www.blendswap.com/blends/view/92104
+
+'

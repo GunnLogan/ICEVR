@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Can
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -4590659988834206889, guid: 738bfcb4136d47c4ab5ce2db23e401ce, type: 3}
+  _displayName: Can
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 68557532dd4bb34abdc9368306a70c18
+  _guid:
+    m_GuidLow: 5382729393044280680
+    m_GuidHigh: 1732943603043846589
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC0 1.0
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+
+    Kenney
+
+    Edited
+    by ShapesXR
+
+    https://www.kenney.nl/assets/food-kit
+
+'

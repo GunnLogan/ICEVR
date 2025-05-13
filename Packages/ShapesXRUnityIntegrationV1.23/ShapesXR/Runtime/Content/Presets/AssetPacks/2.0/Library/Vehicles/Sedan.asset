@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Sedan
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -8759360090052846930, guid: 862c0cbb79f345c4babbb29be332ec20, type: 3}
+  _displayName: 
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 8e9bcfa2f15e284d8a32ba57975b9604
+  _guid:
+    m_GuidLow: 5559798131900521358
+    m_GuidHigh: 330552328228319882
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+
+    ShapesXR
+
+
+'

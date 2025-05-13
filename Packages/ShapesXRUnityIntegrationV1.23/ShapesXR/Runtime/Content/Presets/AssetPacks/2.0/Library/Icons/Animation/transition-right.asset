@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: transition-right
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Transition Right
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: fc2b4f687b40c0419b9242d2e889d2e5
+  _guid:
+    m_GuidLow: 4737857706768935932
+    m_GuidHigh: 16560450412847731355
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: d5200300c084cbc469be0a4eac435fb4, type: 3}

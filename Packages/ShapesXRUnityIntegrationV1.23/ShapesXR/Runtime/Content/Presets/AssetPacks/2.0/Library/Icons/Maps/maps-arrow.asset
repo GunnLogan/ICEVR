@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: maps-arrow
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Maps Arrow
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: c3738b038e55fb48a41a08d415ec3559
+  _guid:
+    m_GuidLow: 5258891058318373827
+    m_GuidHigh: 6428303621637020324
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: 11e974bbd762d8c4a8c16edf1b638bbe, type: 3}

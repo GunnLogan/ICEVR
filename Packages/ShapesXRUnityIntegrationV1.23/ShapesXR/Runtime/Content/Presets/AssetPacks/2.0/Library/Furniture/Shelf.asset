@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Shelf
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -5094416142855971342, guid: 5ed55d3c5facacc41bf726d6b235e2d6, type: 3}
+  _displayName: Shelf
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 6ccb3123a7320440853b7e80e7cfe382
+  _guid:
+    m_GuidLow: 4612867611765623660
+    m_GuidHigh: 9431610637844102021
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    https://creativecommons.org/public-domain/
+
+
+    ShapesXR
+
+
+'

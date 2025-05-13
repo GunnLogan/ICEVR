@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 447333c0016741a9abf95484eb35c5d2, type: 3}
+  m_Name: ButtonChamfer
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 6962226317185186209, guid: 9baf43f878b14e54bac497ada6101721, type: 3}
+  _displayName: Button Chamfer
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: f72fa85524fea945ad3431da64686b9d
+  _guid:
+    m_GuidLow: 5019822691690491895
+    m_GuidHigh: 11343274868829402285
+  _fitterType: 2
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _size:
+    x: 0.16
+    y: 0.038
+  _thickness: 0.004
+  _cornerRadius: 0.008
+  _corners:
+    x: 1
+    y: 1
+    z: 1
+    w: 1
+  _isCornerSharp: 0
+  _chamferRadius: 0.001
+  _isChamferSharp: 1
+  _generateBack: 1
+  _horizontalBend: 0
+  _verticalBend: 0

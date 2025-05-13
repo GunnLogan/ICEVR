@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Stairs
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -1380805155401012277, guid: ef841ca4da74583488b603a68e2c0772, type: 3}
+  _displayName: Stairs
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 9c234e3b715b4548aeb93a73a2ccd680
+  _guid:
+    m_GuidLow: 5207669086008255388
+    m_GuidHigh: 9283832679960852910
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: "License \n\n\nEdited by ShapesXR\n"

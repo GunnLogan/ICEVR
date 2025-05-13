@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: BenchBack
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 8771091787928289351, guid: 03f61e2eae8cc2e4591e5d3bbe36589d, type: 3}
+  _displayName: Bench Back
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: ff8e0af48181284d82c1f1c6b6a81d79
+  _guid:
+    m_GuidLow: 5559836135133974271
+    m_GuidHigh: 8727317155889136002
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+
+    ShapesXR
+
+
+'

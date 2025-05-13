@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Marker
+  m_EditorClassIdentifier: 
+  _asset: {fileID: -7269662497230749185, guid: 49007f9469e98f346ab08ce4d4e9d8ad, type: 3}
+  _displayName: 
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 3ad5b4470c2a3649bb623dd20f2dd501
+  _guid:
+    m_GuidLow: 5275450245742122298
+    m_GuidHigh: 132061310052295355
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC BY 4.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+
+    ShapesXR
+
+
+'

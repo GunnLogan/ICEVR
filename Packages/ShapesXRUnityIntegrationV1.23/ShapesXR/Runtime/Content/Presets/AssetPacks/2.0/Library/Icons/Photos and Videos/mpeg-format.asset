@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0493e8a56925689409520556911df3a9, type: 3}
+  m_Name: mpeg-format
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Mpeg Format
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: a1c06d3ea4442740a6dd6c28b424cb3d
+  _guid:
+    m_GuidLow: 4622739014731808929
+    m_GuidHigh: 4452693012776803750
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _icon: {fileID: 3286163911610860551, guid: fbd442c8c0fc5794abb7823cf3c43286, type: 3}

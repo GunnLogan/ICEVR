@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Rack
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 1368262525616236478, guid: 83a35b4b285070a42830705550661505, type: 3}
+  _displayName: Rack
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: 01369c8b4d87f34ab29f759af27c9f79
+  _guid:
+    m_GuidLow: 5400809145271858689
+    m_GuidHigh: 8763860781301604274
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License Free Art License
+
+    http://artlibre.org/licence/lal/en
+
+
+    Dingenskirchen
+
+    Edited
+    by ShapesXR
+
+    https://www.sweethome3d.com/searchModels.jsp?model=Rack&x=0&y=0
+
+'

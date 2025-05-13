@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: Spiral Stairs
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 4901653392128795418, guid: 28066845fd3ed2745bd54393c2bf4e62, type: 3}
+  _displayName: Spiral Stairs
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: b4bc705df5510d4dad2e2c1340c1de14
+  _guid:
+    m_GuidLow: 5552184029894196404
+    m_GuidHigh: 1503851806532054701
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License Free Art License
+
+    http://artlibre.org/licence/lal/en
+
+
+    Geantick
+
+    Edited
+    by ShapesXR
+
+    https://www.sweethome3d.com/searchModels.jsp?model=Spiral+Stairs&x=0&y=0
+
+'

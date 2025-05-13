@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7b44030d49b5c4aba918ee854fcf08, type: 3}
+  m_Name: StorageRackWideShortBeams
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 7098532293559563240, guid: 2be6dc152169a3e4bb39ed94e02d1fb9, type: 3}
+  _displayName: Storage Rack Wide Short Beams
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: bf7717d92c2f1545a7cfd53333f500ab
+  _guid:
+    m_GuidLow: 4977936832795211711
+    m_GuidHigh: 12322118180747464615
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 'License CC0
+
+    https://creativecommons.org/public-domain/cc0/
+
+
+    pujiyanto
+
+    Edited
+    by ShapesXR
+
+    https://blendswap.com/blend/25187
+
+'

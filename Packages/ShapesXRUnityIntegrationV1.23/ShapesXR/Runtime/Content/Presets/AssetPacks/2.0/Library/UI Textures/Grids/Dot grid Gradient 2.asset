@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4418b5595dbe5ea4a9f7168da6e58ca5, type: 3}
+  m_Name: Dot grid Gradient 2
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _displayName: Dot Grid Gradient 2
+  _thumbnail: {fileID: 0}
+  _visibleInLibrary: 1
+  _serializedGuid: b62d83f3fea07a458c8c8999de1d042b
+  _guid:
+    m_GuidLow: 5006490952643325366
+    m_GuidHigh: 3099635285433617548
+  _fitterType: 0
+  _preserveAspect: 0
+  _baseMap: {fileID: 0}
+  _applyToolMaterial: 0
+  _creationSnappingUpAxis: 1
+  _license: 
+  _image: {fileID: 2800000, guid: 19c518bd00eb3724aa5e33e134012b43, type: 3}
