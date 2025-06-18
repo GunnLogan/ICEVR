@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 64fdecadc5ac2614ebc4192e62b7201c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BaseMap: {instanceID: 0}
+  - _StepMaskLeft: {instanceID: 0}
+  - _StepMaskRight: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
